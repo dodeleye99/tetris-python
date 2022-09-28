@@ -18,3 +18,6 @@ Instantiate a GameController object, passing the screen size constants as argume
 Immediately run the main loop after it is initialised.
 """
 GameController(constants.SCREEN_WIDTH, constants.SCREEN_HEIGHT).main_loop()
+
+# After the main loop ends, exit the program by termination all pygame modules
+pygame.quit()
