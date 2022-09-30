@@ -4,6 +4,7 @@ A Tetris clone coded in Python, using the [Pygame](https://www.pygame.org/news) 
 
 Originally used for a programming project in A-level Computer Science.
 
+## Demo run of the game
 ![Demo](_demos/demo1.gif)
 
 ## Objective
