@@ -7,7 +7,7 @@ Originally used for a programming project in A-level Computer Science.
 ## How to run
 First go to the `src` directory:
 
-    cd ~/<path-to-tetris-python-directory>/src
+    cd <path_to_tetris-python_directory>/src
     
 Then execute the `main.py` file from the command-line/terminal:
 
