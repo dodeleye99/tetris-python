@@ -12,7 +12,7 @@ Execute the `main.py` file from the command-line/terminal:
     
 The Pygame library must be installed. Visit https://www.pygame.org/wiki/GettingStarted for details.
     
-## Demo run of the game
+## Demo run of the game (macOS)
 ![Demo](_demos/demo1.gif)
 
 ## Objective
