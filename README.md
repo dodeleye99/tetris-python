@@ -5,8 +5,11 @@ A Tetris clone coded in Python, using the [Pygame](https://www.pygame.org/news) 
 Originally used for a programming project in A-level Computer Science.
 
 ## How to run
+First go to the `src` directory:
 
-Execute the `main.py` file from the command-line/terminal:
+    cd ~/<path-to-tetris-python-directory>/src
+    
+Then execute the `main.py` file from the command-line/terminal:
 
     python3 main.py
     
