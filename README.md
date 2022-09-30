@@ -51,6 +51,6 @@ Also one point is given for every space fallen while fast dropping.
 
 [Pygame](https://www.pygame.org/news): the Python library used as a framework for coding the game.
 
-[Hard Drop (Tetris Wiki)](https://harddrop.com/wiki/Tetris_Wiki): the main source used for researching Tetris.
+[Hard Drop (Tetris Wiki)](https://harddrop.com/wiki/Tetris_Wiki): the main source used for researching Tetris game mechanics.
 
 [game-icons.net](https://game-icons.net/) (Guard13007): the source of the pause and resume buttons.
