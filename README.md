@@ -4,6 +4,14 @@ A Tetris clone coded in Python, using the [Pygame](https://www.pygame.org/news) 
 
 Originally used for a programming project in A-level Computer Science.
 
+## How to run
+
+Execute the `main.py` file from the command-line/terminal:
+
+    python3 main.py
+    
+The Pygame library must be installed. Visit https://www.pygame.org/wiki/GettingStarted for details.
+    
 ## Demo run of the game
 ![Demo](_demos/demo1.gif)
 
