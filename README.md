@@ -26,7 +26,7 @@ The blocks will fall faster as the level increses. Avoid letting them stack up t
 
 * `Right Arrow`: Move right. Hold for quick movement.
 
-* `Down Arrow`: Fast drop.
+* `Down Arrow`: Fast drop (hold down).
 
 * `X key`: Rotate clockwise.
 
