@@ -1,6 +1,8 @@
 # Tetris Python
 
-A Tetris implementation coded in Python, using the [Pygame](https://www.pygame.org/news) library.
+A Tetris clone coded in Python, using the [Pygame](https://www.pygame.org/news) library.
+
+Originally used for a programming project in A-level Computer Science.
 
 ![Demo](_demos/demo1.gif)
 
@@ -30,3 +32,11 @@ The `base` values for each line are as follows:
 * `4 lines = 1200 points`
 
 Also one point is given for every space fallen while fast dropping. 
+
+## Credits
+
+[Pygame](https://www.pygame.org/news): the Python library used as a framework for coding the game.
+
+[Hard Drop (Tetris Wiki)](https://harddrop.com/wiki/Tetris_Wiki): the main source used for researching Tetris.
+
+[game-icons.net](https://game-icons.net/) (Guard13007): the source of the pause and resume buttons.
