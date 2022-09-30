@@ -10,7 +10,7 @@ Originally used for a programming project in A-level Computer Science.
 ## Objective
 Clear as many lines as possible in order to rack up a high score. The more lines cleared simultaneously, the greater the number of points scored.
 
-Avoid letting the blocks stack up too high, which will cause the game to end.
+The blocks will fall faster as the level increses. Avoid letting them stack up too high, which will cause the game to end.
 
 ## Controls
 
