@@ -38,7 +38,7 @@ The blocks will fall faster as the level increses. Avoid letting them stack up t
 * `Escape key`: Toggle pause. Alternatively, click the pause button.
 
 ## Score System
-The points for clearing lines depends on the current level and the number of lines cleared:
+The points for clearing lines depends on the current level and the number of lines being cleared:
 
 `points = level * base`.
 
