@@ -18,7 +18,7 @@ The Pygame library must be installed. Visit https://www.pygame.org/wiki/GettingS
 ## Demo run of the game (macOS)
 ![Demo](_demos/demo1.gif)
 
-## Objective
+## Game objective
 Clear as many lines as possible in order to rack up a high score. The more lines cleared simultaneously, the greater the number of points scored.
 
 The blocks will fall faster as the level increses. Avoid letting them stack up too high, which will cause the game to end.
@@ -37,7 +37,7 @@ The blocks will fall faster as the level increses. Avoid letting them stack up t
 
 * `Escape key`: Toggle pause. Alternatively, click the pause button.
 
-## Score System
+## Score system
 The points for clearing lines depends on the current level and the number of lines being cleared:
 
 `points = level * base`.
