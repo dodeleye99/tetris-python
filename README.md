@@ -9,7 +9,7 @@ First go to the `src` directory:
 
     cd <path_to_tetris-python_directory>/src
     
-Then execute the `main.py` file from the command-line/terminal:
+Then execute the `main.py` file from the command-line or terminal:
 
     python3 main.py
     
